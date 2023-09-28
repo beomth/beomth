@@ -1,6 +1,4 @@
-<center>Welcome my Github 👋</center>
-
-
+### Welcome my Github 👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomth&show_icons=true&theme=tokyonight)
 
