@@ -2,8 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomth&show_icons=true&theme=tokyonight)
 
-<img alt="Open JDK" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img alt="Spring Boot" src ="https://img.shields.io/badge&style=for-the-badge&logo=Spring Boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 
 <!--
 **beomth/beomth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
