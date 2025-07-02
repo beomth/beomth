@@ -1,8 +1,18 @@
 # Welcome my Github 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomth&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomth&hide=contribs,prs&show_icons=true&theme=dracula)
 
-<img src="https://img.shields.io/badge/Java-437291?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomth)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
+
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <br>
+</div>
+
 <!--
 **beomth/beomth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
